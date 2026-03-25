@@ -20,8 +20,11 @@
 *.vrb
 *.xdv
 
-# Resume output (generated locally)
-PlushCV.pdf
+# PDF files
+*.pdf
+
+# Keep the published CV tracked for GitHub Pages
+!marval_krystof_cv.pdf
 
 # Temporary/editor files
 *~
